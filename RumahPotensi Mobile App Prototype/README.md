@@ -1,0 +1,11 @@
+
+  # RumahPotensi Mobile App Prototype
+
+  This is a code bundle for RumahPotensi Mobile App Prototype. The original project is available at https://www.figma.com/design/O5CBXfcFToFe3lXlyuPV9A/RumahPotensi-Mobile-App-Prototype.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
